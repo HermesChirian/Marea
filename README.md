@@ -2,6 +2,12 @@
 
 **Marea** is an intuitive, collaborative web application designed to plan weekend getaways, group trips, and fishing expeditions with friends. It allows you to organize event schedules, confirm attendance, assign equipment/tasks, and manage shared expenses fairly and transparently.
 
+* >**M - Mate (your friends, you and a traditional argentinian mate)**
+* >**A - Arrival (arrive to your destiny)**
+* >**R - Route (plan the route)**
+* >**E - Expense (share the expense)**
+* >**A - Agenda (your travel agenda)**
+
 ---
 
 ## ✨ Key Features
@@ -23,6 +29,22 @@
 ### 🎨 Customization & User Preferences
 * **Theme Toggle (Dark / Light Mode):** Effortlessly switch visual styles according to each user's preference.
 * **User Profiles:** Customized avatars and initials for each group member.
+
+--- 
+
+## 🏗️ Architecture
+
+**Feature architecture**
+
+--- 
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Vite (react), Tailwind CSS.
+* **Icons & UI:** Lucide React, Radix UI (cambiar).
+* **Backend:** Express with Typescript and Redis.
+* **Database:** PostgreSQL (User accounts, events, checklists, and transaction history), MiniIO/Garage (bucket s3).
+* **Auth:** Clerk
 
 ---
 
