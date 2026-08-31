@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing coverage
+coverage/
+
+# Misc
+*.local
+
+# AI context (LLM orchestration)
+.opencode/
+.cursor/
+.cline/
+.aider*
+.windsurf/
+CLAUDE.md
+AGENTS.md
