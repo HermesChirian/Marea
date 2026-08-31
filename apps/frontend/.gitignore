@@ -1,0 +1,11 @@
+# Build output
+dist/
+dist-ssr/
+
+# Vite
+.vite/
+*.local
+
+# Logs
+*.log
+apps    
