@@ -36,6 +36,7 @@ coverage/
 
 # AI context (LLM orchestration)
 .opencode/
+.context/
 .cursor/
 .cline/
 .aider*
