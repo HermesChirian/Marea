@@ -24,6 +24,22 @@
 * **Theme Toggle (Dark / Light Mode):** Effortlessly switch visual styles according to each user's preference.
 * **User Profiles:** Customized avatars and initials for each group member.
 
+--- 
+
+## 🏗️ Architecture
+
+**Feature architecture**
+
+--- 
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Vite (react), Tailwind CSS.
+* **Icons & UI:** Lucide React, Radix UI (cambiar).
+* **Backend:** Express with Typescript and Redis.
+* **Database:** PostgreSQL (User accounts, events, checklists, and transaction history), MiniIO/Garage (bucket s3).
+* **Auth:** Clerk
+
 ---
 
 ## 🤝 Contributing
