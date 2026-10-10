@@ -1,0 +1,11 @@
+main {
+  padding: 2rem;
+}
+
+main h1 {
+  margin-bottom: 0.5rem;
+}
+
+main p {
+  color: var(--text);
+}
