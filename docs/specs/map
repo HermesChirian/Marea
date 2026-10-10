@@ -1,0 +1,9 @@
+marea/
+├── apps/
+│   ├── web/       # React + Vite + TypeScript
+│   └── api/       # FastAPI + SQLAlchemy + Alembic
+├── docs/
+│   └── specs/
+│       └── v0.1.md
+├── compose.yaml   # PostgreSQL local
+└── README.md
